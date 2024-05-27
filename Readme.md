@@ -72,9 +72,9 @@ Client application with a JavaFX GUI for querying the records database.
 
 ## Requirements
 To run this project, you need:
-- Java Development Kit (JDK) 8 or higher
-- IntelliJ IDEA (or any other Java IDE)
-- PostgreSQL 10 or higher
+- Java Development Kit (JDK) 21.0.3
+- IntelliJ IDEA
+- PostgreSQL 13
 - PostgreSQL JDBC Driver (`postgresql-42.6.0.jar`)
 
 ## Adding PostgreSQL Driver to IntelliJ IDEA
